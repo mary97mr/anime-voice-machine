@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/anime-voice-machine/static/css/main.58f3e1eb.chunk.css",
-    "main.js": "/anime-voice-machine/static/js/main.0cb65712.chunk.js",
-    "main.js.map": "/anime-voice-machine/static/js/main.0cb65712.chunk.js.map",
+    "main.css": "/anime-voice-machine/static/css/main.85930409.chunk.css",
+    "main.js": "/anime-voice-machine/static/js/main.4c8b4698.chunk.js",
+    "main.js.map": "/anime-voice-machine/static/js/main.4c8b4698.chunk.js.map",
     "runtime-main.js": "/anime-voice-machine/static/js/runtime-main.25217067.js",
     "runtime-main.js.map": "/anime-voice-machine/static/js/runtime-main.25217067.js.map",
     "static/js/2.0a9cccc8.chunk.js": "/anime-voice-machine/static/js/2.0a9cccc8.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.bb8c113e.chunk.js": "/anime-voice-machine/static/js/3.bb8c113e.chunk.js",
     "static/js/3.bb8c113e.chunk.js.map": "/anime-voice-machine/static/js/3.bb8c113e.chunk.js.map",
     "index.html": "/anime-voice-machine/index.html",
-    "static/css/main.58f3e1eb.chunk.css.map": "/anime-voice-machine/static/css/main.58f3e1eb.chunk.css.map",
+    "static/css/main.85930409.chunk.css.map": "/anime-voice-machine/static/css/main.85930409.chunk.css.map",
     "static/js/2.0a9cccc8.chunk.js.LICENSE.txt": "/anime-voice-machine/static/js/2.0a9cccc8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.25217067.js",
     "static/js/2.0a9cccc8.chunk.js",
-    "static/css/main.58f3e1eb.chunk.css",
-    "static/js/main.0cb65712.chunk.js"
+    "static/css/main.85930409.chunk.css",
+    "static/js/main.4c8b4698.chunk.js"
   ]
 }
