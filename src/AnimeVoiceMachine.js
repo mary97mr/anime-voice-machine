@@ -26,7 +26,7 @@ class AnimeVoiceMachine extends Component {
         />
 
         <div id="display" className="col-5">
-          <p className="display-name py-3 btn d-grid btn-dark text-uppercase fs-2">{ this.state.displayName }</p>
+          <p className="display-name py-3 btn d-grid btn-dark text-uppercase">{ this.state.displayName }</p>
           <img className="img-fluid" src={this.state.displayImg} alt={this.setState.displayName }/>
         </div>
       </div>
